@@ -1,0 +1,44 @@
+/* Farhaz Ladha - Lab 3.1 */
+
+
+/* Container */
+html {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* Bing Crosby Heading */
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    letter-spacing: 0.1em;
+    margin-bottom: 0px;
+    padding-left: 3%;
+}
+
+/* Paragraph under Heading */
+.intro {
+    width: 55%;
+    padding-left: 3%;
+}
+
+/* Amy Moelter */
+.intro cite{
+    color: gray;
+}
+
+/* Two Column Paragraph Layout */
+.two_columns {
+    text-align: justify;
+    column-count: 2;
+    column-gap: 2em;
+    padding-top: 1em;
+}
+
+/* First Letter of Paragraph */
+#big{
+    float: left;
+    width: 0.5em;
+    font-size: 450%;
+    line-height: 75%;
+}

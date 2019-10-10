@@ -1,0 +1,138 @@
+/* Farhaz Ladha - Lab 3.2 */
+
+
+/* Container */
+html {
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+/* Heading Container */
+.big_text{
+    text-align:center;
+    text-transform: uppercase;
+}
+
+/* Text With Line */
+h4 { 
+    width:100%; 
+    text-align:center; 
+    border: 8px solid #000; 
+    line-height:0px; 
+    margin:10px 0px 20px; 
+    font-size: 20px;
+} 
+
+/* Text on Line */
+h4 span { 
+    background:#fff; 
+    padding:5px 10px; 
+}
+
+/* First Heading with line */
+#filthy {
+    border-color: #b48950;
+    font-family: 'Libre Caslon Text', serif;
+    letter-spacing: 0.2em;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+/* Second Heading */
+#coal {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    letter-spacing: 0.25em;
+    font-size: 80px;
+    margin-bottom: -20px;
+    margin-top: -20px;
+}
+
+/* Third Heading */
+#carbon {
+    font-family: 'Bitter', serif;
+    letter-spacing: 0.7em;
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+/* Fourth Heading with line */
+#mishmash {
+    border-color: #82d4e9;
+    font-family: 'Bungee Hairline', serif;
+    font-weight: 700;
+}
+
+/* Fifth Heading */
+#generations {
+    font-weight: 300;
+    letter-spacing: 0.45em;
+    margin-bottom: 0px;
+    margin-top: -5px;
+}
+
+/* Sixth Heading */
+#transmission {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    letter-spacing: 0.25em;
+    font-size: 98px;
+    margin-bottom: 0px;
+    margin-top: -20px;
+}
+
+/* Seventh Heading with line */
+#and_one {
+    border-color: #db3b2c;
+    font-family: 'Libre Caslon Text', serif;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    margin-top: -20px;
+}
+
+/* Eighth Heading */
+#untrimmed {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 42px;
+    letter-spacing: 0.1em;
+    margin-bottom: 0px;
+    margin-top: -20px;
+}
+
+/* Ninth Heading */
+#country {
+    font-family: 'Saira';
+    font-weight: 700;
+    font-size: 125px;
+    letter-spacing: 0.2em;
+    margin-bottom: 0px;
+    margin-top: -40px;
+}
+
+/* Final Heading with line */
+#darkness {
+    border-color: #a7b029;
+    font-family: 'Saira', sans-serif;
+    letter-spacing: 0.5em;
+    margin-bottom: 10px;
+    margin-top: -20px;
+}
+
+/* First sentence of paragraph uppercase */
+p span {
+    font-style: italic;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+}
+
+/* Two Column Paragraph Layout */
+.two_columns {
+    text-align: justify;
+    column-count: 2;
+    column-gap: 2em;
+    padding-top: 1em;
+}
