@@ -1,0 +1,51 @@
+/* FARHAZ - Lab 2 */
+
+body {
+    background-color: #FFEF00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #403C00;
+}
+
+h2 + p {
+    background-color: #7F7700;
+    color: #ffffff;
+}
+
+a{
+    color: teal;
+}
+
+a:visited {
+    color: 	#ffff;
+}
+
+div > ul, ol {
+    background-color: #BFB300;
+}
+
+p{
+    border: 1px solid black;
+}
+
+#highest {
+    background-color: blue;
+       color: #ffff;
+}
+
+.alternate tr:nth-child(2n) {
+    background-color: lightblue;
+}
+
+.monday {
+    background-color: cornflowerblue;
+}
+
+.tuesday {
+    background-color: lightsalmon;
+}
+
+li:hover {
+    background-color: #eeeeee;
+}
