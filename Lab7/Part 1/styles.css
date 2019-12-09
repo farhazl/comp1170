@@ -1,0 +1,33 @@
+/*
+Farhaz Ladha
+Lab 7 - Part 1
+*/
+
+#calculator {
+    background-color: #faebd8;
+    padding: 2%;
+    width: 50%;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 2%;
+    text-align: center;
+}
+
+input[type="number"] {
+    width: 40%;
+    padding: 5px;
+}
+
+label {
+    background-color: black;
+    color: white;
+    padding: 4px;
+    display: inline;
+}
+
+button {
+    padding: 5px;
+}
