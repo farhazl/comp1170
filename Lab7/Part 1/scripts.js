@@ -1,8 +1,3 @@
-/*
-Farhaz Ladha
-Lab 7 - Part 1
-*/
-
 var number1 = "num1"
 var number2 = "num2"
 var answer = "ans";
